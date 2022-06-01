@@ -1,2 +1,4 @@
+[Language: MySQL]
+
 select *
 from CITY
