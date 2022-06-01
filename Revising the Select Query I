@@ -1,3 +1,5 @@
+[Language: MySQL]
+
 select *
 from CITY
 where COUNTRYCODE LIKE 'USA'
